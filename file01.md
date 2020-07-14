@@ -25,3 +25,5 @@ _and something in a lovely italic style_
 **_how about both italic and bold ?_**
 
 a little bit of links: [GitHub](https://github.com/)
+
+... and if we don't like something, we can ~~scratch it~~ !
